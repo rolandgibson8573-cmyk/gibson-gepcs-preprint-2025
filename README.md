@@ -10,6 +10,6 @@ A closed-form synergy tensor from 31k+ emotional regulation events that suppress
 
 SSRN Preprint: [Link here once live, e.g., ssrn.com/abstract=XXXXX]  
 viXra: [Link here post-upload]  
-Contact: roland.gibson@proton.me for NDA/collabs.
+Contact: rolandgibsonjr@proton.me for NDA/collabs.
 
 License: MIT (code) / CC-BY-NC-ND (docs) – Cite as Gibson (2025).
